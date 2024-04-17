@@ -18,7 +18,7 @@ export default function FoodPackaging() {
                             Preserve Nature’s Freshness
                         </h3>
                         <p className="text-sm md:text-xl lg:text-xl font-bold mt-4">
-                            Prasad Seeds offers peak taste and nutrition with expertly preserved frozen fruits and vegetables. Our advanced techniques, from rapid freezing to meticulous blanching, ensure freshness. Experience culinary excellence with Prasad Seeds Food Processing, redefining perfection in every step.
+                            PLPL Seeds offers peak taste and nutrition with expertly preserved frozen fruits and vegetables. Our advanced techniques, from rapid freezing to meticulous blanching, ensure freshness. Experience culinary excellence with PLPL Seeds Food Processing, redefining perfection in every step.
                         </p>
                     </div>
                 </div>

@@ -11,7 +11,7 @@ export default function SeedsWhoWeAre({ whoWeAre, whoWeAreImg }: any) {
                                 <h2 className="text-xl md:text-3xl lg:text-4xl  font-bold">{titleOne}</h2>
                                 <hr className="border-2 border-[#0e2329] w-full md:w-[460px] my-2" />
                                 <p className="font-semibold mt-2 text-sm md:text-base lg:text-xl">
-                                    Prasad Seeds Pvt. Ltd. (PSPL) is India’s largest outsourced partner in the Seed Processing domain, delivering end-to-end turnkey solutions to global Seed companies.
+                                    PLPL Seeds Pvt. Ltd. (PLPL) is India’s largest outsourced partner in the Seed Processing domain, delivering end-to-end turnkey solutions to global Seed companies.
                                 </p>
                             </div>
                             <div className="mt-5">

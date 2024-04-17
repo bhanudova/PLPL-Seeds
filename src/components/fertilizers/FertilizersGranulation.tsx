@@ -13,7 +13,7 @@ export default function FertilizersGranulation() {
               Granulation Technology
             </h3>
             <p className="text-sm md:text-xl lg:text-2xl mx-2 md:mx-0 font-medium mt-4">
-              Unlock the potential of your crops with our advanced granulation methods at Prasad Seeds. We intricately craft granules from premium raw materials, providing your crops with the precise nutrients they need for optimal growth and vitality.
+              Unlock the potential of your crops with our advanced granulation methods at PLPL Seeds. We intricately craft granules from premium raw materials, providing your crops with the precise nutrients they need for optimal growth and vitality.
             </p>
           </div>
         </div>
@@ -23,7 +23,7 @@ export default function FertilizersGranulation() {
           <h2 className="text-center text-2xl md:text-4xl font-bold">Fertilizers and Granulation</h2>
           <div className="flex justify-center items-center mt-2">
             <p className="text-center w-full md:px-10 lg:px-0 md:w-[50rem]">
-              Explore our range of advanced fertilizers and granulation solutions designed to optimize crop nutrition and promote sustainable farming practices. Prasad Seeds is committed to delivering innovative and high-quality fertilizers to support farmers in achieving maximum yields while minimizing environmental impact.
+              Explore our range of advanced fertilizers and granulation solutions designed to optimize crop nutrition and promote sustainable farming practices. PLPL Seeds is committed to delivering innovative and high-quality fertilizers to support farmers in achieving maximum yields while minimizing environmental impact.
             </p>
           </div>
           <div className="flex justify-center items-center">

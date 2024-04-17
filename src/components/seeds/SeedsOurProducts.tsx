@@ -26,7 +26,7 @@ export default function SeedsOurProducts() {
                     <div className="text-black">
                         <h3 className="text-3xl font-bold">Quality Seeds</h3>
                         <p>
-                            At Prasad Seeds, we take immense pride in consistently providing the highest quality seeds for your diverse agricultural needs. Our unwavering commitment ensures that every seed you plant is a crucial step towards a bountiful harvest.
+                            At PLPL Seeds, we take immense pride in consistently providing the highest quality seeds for your diverse agricultural needs. Our unwavering commitment ensures that every seed you plant is a crucial step towards a bountiful harvest.
                         </p>
                     </div>
                 </div>
@@ -35,7 +35,7 @@ export default function SeedsOurProducts() {
                     <div className="text-black">
                         <h3 className="text-3xl font-bold">Innovation in Agriculture</h3>
                         <p>
-                            Embrace innovation with Prasad Seeds. We constantly strive to bring you the latest advancements in agriculture. From cutting-edge technology to sustainable farming practices, we support farmers in cultivating a brighter future.
+                            Embrace innovation with PLPL Seeds. We constantly strive to bring you the latest advancements in agriculture. From cutting-edge technology to sustainable farming practices, we support farmers in cultivating a brighter future.
                         </p>
                     </div>
                 </div>
@@ -47,56 +47,56 @@ export default function SeedsOurProducts() {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 <div className="bg-white p-4 text-black">
                     <div className="flex justify-center items-center py-4">
-                        <Image src={'/images/our_products_corn.jpg'} width={500} height={500} alt="Prasad Seeds - Corn" className="w-[10rem] h-[10rem] rounded-full" />
+                        <Image src={'/images/our_products_corn.jpg'} width={500} height={500} alt="PLPL Seeds - Corn" className="w-[10rem] h-[10rem] rounded-full" />
                     </div>
                     <div className="text-center">
                         <h2 className="text-2xl font-medium pt-6">Corn</h2>
                         <p className="md:mx-10 lg:mx-14 py-6">
-                            Explore Prasad Seeds&#39; extensive range of hybrid corn suited for both temperate and tropical regions. Our corn seed products are customized to meet the specific needs of local farmers.
+                            Explore PLPL Seeds&#39; extensive range of hybrid corn suited for both temperate and tropical regions. Our corn seed products are customized to meet the specific needs of local farmers.
                         </p>
                     </div>
                 </div>
                 <div className="bg-white p-4 text-black">
                     <div className="flex justify-center items-center py-4">
-                        <Image src={'/images/our_products_paddy.jpg'} width={500} height={500} alt="Prasad Seeds - Paddy" className="w-[10rem] h-[10rem] rounded-full" />
+                        <Image src={'/images/our_products_paddy.jpg'} width={500} height={500} alt="PLPL Seeds - Paddy" className="w-[10rem] h-[10rem] rounded-full" />
                     </div>
                     <div className="text-center">
                         <h2 className="text-2xl font-medium pt-6">Paddy</h2>
                         <p className="md:mx-10 lg:mx-14 py-6">
-                            Rice is widely regarded as one of the most important crops globally. Prasad Seeds offers a wide range of paddy seeds with different maturities and grain types, focusing on enhancing the value for farmers.
+                            Rice is widely regarded as one of the most important crops globally. PLPL Seeds offers a wide range of paddy seeds with different maturities and grain types, focusing on enhancing the value for farmers.
                         </p>
                     </div>
                 </div>
                 <div className="bg-white p-4 text-black">
                     <div className="flex justify-center items-center py-4">
-                        <Image src={'/images/our_products_millets.jpg'} width={500} height={500} alt="Prasad Seeds - Millet" className="w-[10rem] h-[10rem] rounded-full" />
+                        <Image src={'/images/our_products_millets.jpg'} width={500} height={500} alt="PLPL Seeds - Millet" className="w-[10rem] h-[10rem] rounded-full" />
                     </div>
                     <div className="text-center">
                         <h2 className="text-2xl font-medium pt-6">Millet</h2>
                         <p className="md:mx-10 lg:mx-14 py-6">
-                            Prasad Seeds offers a diverse range of hybrid millet seeds designed to produce high yields and superior-quality grains. Our seeds are crafted to thrive in different climatic conditions and soil types.
+                            PLPL Seeds offers a diverse range of hybrid millet seeds designed to produce high yields and superior-quality grains. Our seeds are crafted to thrive in different climatic conditions and soil types.
                         </p>
                     </div>
                 </div>
                 <div className="bg-white p-4 text-black">
                     <div className="flex justify-center items-center py-4">
-                        <Image src={'/images/our_products_sunflower.jpg'} width={500} height={500} alt="Prasad Seeds - Sunflower" className="w-[10rem] h-[10rem] rounded-full" />
+                        <Image src={'/images/our_products_sunflower.jpg'} width={500} height={500} alt="PLPL Seeds - Sunflower" className="w-[10rem] h-[10rem] rounded-full" />
                     </div>
                     <div className="text-center">
                         <h2 className="text-2xl font-medium pt-6">Sunflower</h2>
                         <p className="md:mx-10 lg:mx-14 py-6">
-                            Prasad Seeds provides an extensive selection of sunflower hybrids, along with seed treatment choices tailored to your requirements. Delivering top-notch sunflower seeds has always been at the heart of our business.
+                            PLPL Seeds provides an extensive selection of sunflower hybrids, along with seed treatment choices tailored to your requirements. Delivering top-notch sunflower seeds has always been at the heart of our business.
                         </p>
                     </div>
                 </div>
                 <div className="bg-white p-4 text-black">
                     <div className="flex justify-center items-center py-4">
-                        <Image src={'/images/our_products_cotton.jpg'} width={500} height={500} alt="Prasad Seeds - Cotton" className="w-[10rem] h-[10rem] rounded-full" />
+                        <Image src={'/images/our_products_cotton.jpg'} width={500} height={500} alt="PLPL Seeds - Cotton" className="w-[10rem] h-[10rem] rounded-full" />
                     </div>
                     <div className="text-center">
                         <h2 className="text-2xl font-medium pt-6">Cotton</h2>
                         <p className="md:mx-10 lg:mx-14 py-6">
-                            Prasad Seeds offers a comprehensive range of hybrid cotton seeds carefully engineered to enhance yield and produce superior-quality fibers. Our seeds are crafted using advanced techniques to optimize cotton growth.
+                            PLPL Seeds offers a comprehensive range of hybrid cotton seeds carefully engineered to enhance yield and produce superior-quality fibers. Our seeds are crafted using advanced techniques to optimize cotton growth.
                         </p>
                     </div>
                 </div>

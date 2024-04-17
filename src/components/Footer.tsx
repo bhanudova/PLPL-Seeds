@@ -14,7 +14,7 @@ export default function Footer() {
                     <a href="/" className="flex items-center">
                       <Image src="/images/prasad_logo.png" width={1000} height={1000} className="w-6 md:w-10 rounded-md " alt="Logo" />
                     </a>
-                    <h2 className="font-bold  text-base md:text-base lg:text-lg mt-[2px] md:mt-[10px]">Prasad Seeds</h2>
+                    <h2 className="font-bold  text-base md:text-base lg:text-lg mt-[2px] md:mt-[10px]">PLPL Seeds</h2>
                   </div>
                 </div>
                 <p className="font-semibold w-80 md:w-96 lg:w-96 mt-0 md:mt-3 lg:mt-3 p-2 md:p-0 lg:p-0 text-center md:text-center lg:text-start text-xs md:text-base lg:text-sm">
@@ -48,7 +48,7 @@ export default function Footer() {
         </div>
         <div className="mx-5">
           <div className="mt-8 flex w-full flex-col items-center justify-center border-t border-blue-gray-50 py-4 md:flex-row md:justify-between">
-            <p className=" text-sm md:text-sm m-1 p-1 text-center">Copyright © {new Date().getFullYear()} by Prasad Seeds. All Rights Reserved.</p>
+            <p className=" text-sm md:text-sm m-1 p-1 text-center">Copyright © {new Date().getFullYear()} by PLPL Seeds. All Rights Reserved.</p>
             <div className="flex gap-4  sm:justify-center">
               <a href="#" className="opacity-80 transition-opacity hover:opacity-100">
                 <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">

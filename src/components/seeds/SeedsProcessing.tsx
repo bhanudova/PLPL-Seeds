@@ -85,7 +85,7 @@ export default function SeedsProcessing() {
                     <div>
                         <h2 className="font-bold text-xl mt-4">Conditioning</h2>
                         <p className="w-full lg:w-[20rem]  text-base mt-2">
-                            Optimizing seed moisture and temperature is crucial for long-term viability. At PSPL, we utilize techniques like seed tempering to enhance germination rates and overall seed quality.
+                            Optimizing seed moisture and temperature is crucial for long-term viability. At PLPL, we utilize techniques like seed tempering to enhance germination rates and overall seed quality.
                         </p>
                     </div>
                 </div>

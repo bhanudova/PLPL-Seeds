@@ -16,7 +16,7 @@ export default function SeedsServices() {
                         <hr className="mb-3 w-36 md:w-48 border text-primary-content" />
                     </span>
                     <p className="px-2 md:px-20 mb-3 font-semibold text-center">
-                        PSPL is not just about selling seeds. We offer a range of services to support you at every stage of your agricultural journey, including crop consulting, sustainable farming practices, access to the latest agricultural technologies, and expert guidance to maximize your crop yields and overall farming success.
+                        PLPL is not just about selling seeds. We offer a range of services to support you at every stage of your agricultural journey, including crop consulting, sustainable farming practices, access to the latest agricultural technologies, and expert guidance to maximize your crop yields and overall farming success.
                     </p>
                     <div className="flex justify-center items-center">
                         <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-5">

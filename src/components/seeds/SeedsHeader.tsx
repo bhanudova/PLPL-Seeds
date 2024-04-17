@@ -52,7 +52,7 @@ export default function SeedsHeader() {
                         <div className="flex items-center">
                             <Image src="/images/prasad_logo.png" width={1000} height={1000} className="w-6 md:w-10 rounded-md " alt="Logo" />
                         </div>
-                        <h2 className="font-bold text-[10px] md:text-base lg:text-lg mt-[6px] md:mt-[10px] ">Prasad Seeds</h2>
+                        <h2 className="font-bold text-[10px] md:text-base lg:text-lg mt-[6px] md:mt-[10px] ">PLPL Seeds</h2>
                     </div>
                 </a>
             </div>

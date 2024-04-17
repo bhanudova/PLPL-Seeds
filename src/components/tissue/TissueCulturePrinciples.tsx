@@ -45,7 +45,7 @@ export default function TissueCulturePrinciples() {
                             <div className="my-2">
                                 <h2 className="text-center text-green-800 font-semibold my-2">Totipotency</h2>
                                 <p className="text-sm">
-                                    Prasad Seeds harnesses the transformative power of totipotency, empowering us to cultivate robust plant varieties through plant tissue culture, fostering a world of agricultural abundance.
+                                    PLPL Seeds harnesses the transformative power of totipotency, empowering us to cultivate robust plant varieties through plant tissue culture, fostering a world of agricultural abundance.
                                 </p>
                             </div>
                         </div>
@@ -85,7 +85,7 @@ export default function TissueCulturePrinciples() {
                             <div className="my-2">
                                 <h2 className="text-center text-green-800 font-semibold my-2">Differentiation</h2>
                                 <p className="text-sm">
-                                    At Prasad Seeds, we harness the intricate process of plant cell differentiation, guided by plant hormones and other regulatory factors, to cultivate robust and resilient plant varieties.
+                                    At PLPL Seeds, we harness the intricate process of plant cell differentiation, guided by plant hormones and other regulatory factors, to cultivate robust and resilient plant varieties.
                                 </p>
                             </div>
                         </div>

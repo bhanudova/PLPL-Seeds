@@ -21,7 +21,7 @@ export default function SeedsExpertise() {
             <label htmlFor="first" className='font-bold text-base md:text-lg e-label'>Division & Quality</label>
             <div className={`content ${activeAccordion === 'first' ? 'open' : ''}`}>
               <p className='font-semibold  text-xs md:text-base'>
-                At PSPL, our Seed Division is at the heart of our commitment to agriculture and horticulture. We understand that the quality of seeds is paramount to the success of any planting endeavor. That&#39;s why we have dedicated ourselves to providing turnkey infrastructure installation and management services, starting from land acquisition to capital equipment installation, ensuring the meticulous care and management of seeds from their very inception to the point of delivery.
+                At PLPL, our Seed Division is at the heart of our commitment to agriculture and horticulture. We understand that the quality of seeds is paramount to the success of any planting endeavor. That&#39;s why we have dedicated ourselves to providing turnkey infrastructure installation and management services, starting from land acquisition to capital equipment installation, ensuring the meticulous care and management of seeds from their very inception to the point of delivery.
               </p>
             </div>
           </li>

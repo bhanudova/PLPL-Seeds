@@ -6,7 +6,7 @@ export default function FoodServices() {
             <div>
                 <h2 className="text-center text-xl md:text-2xl lg:text-3xl font-bold text-green-500">Services We Offer</h2>
                 <p className="text-center px-0 md:px-10 lg:px-32 text-sm md:text-sm lg:text-base">
-                    Quality systems are the key to our success in food processing at PSPL, setting us apart as an industry leader. We maintain rigorous food safety standards, quality control, and a commitment to continuous improvement to ensure product excellence.
+                    Quality systems are the key to our success in food processing at PLPL, setting us apart as an industry leader. We maintain rigorous food safety standards, quality control, and a commitment to continuous improvement to ensure product excellence.
                 </p>
                 <div className="flex justify-center items-center mt-6">
                     <div className="grid grid-cols-1 lg:grid-cols-3 gap-5">

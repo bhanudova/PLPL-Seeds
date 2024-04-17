@@ -43,7 +43,7 @@ export default function Header({ headerList, headerLogo, mode }: any) {
                   ))
                 }
               </div>
-              <h2 className="font-bold text-[10px] md:text-base lg:text-lg mt-[6px] md:mt-[10px] ">Prasad Seeds</h2>
+              <h2 className="font-bold text-[10px] md:text-base lg:text-lg mt-[6px] md:mt-[10px] ">PLPL Seeds</h2>
             </div>
           </a>
         </div>

@@ -6,12 +6,12 @@ import FertilizersWhyChooseUs from "./FertilizersWhyChooseUs";
 
 const bannerImages = ['/images/fertilizer_banner1.jpg', '/images/fertilizer_banner2.jpg', '/images/fertilizer_banner3.jpg']
 const whoWeAre = [{ id: 1, image: '/images/fertilizers_who-we-are.jpg', titleOne: 'Who', titleTwo: 'We Are', paragraph: 'Prasad Groups, with over 30 years of experience, is a global leader in sustainable agriculture. We offer a diverse portfolio of innovative and efficient fertilizers and crop protection products. Our mission is to empower farmers and clients worldwide, enabling them to optimize crop yields and profitability. We are currently expanding our services to partners in Asia and Africa, including infrastructure and chemicals. With an investment of $100 million in the Indian agro sector, our commitment to sustainable agriculture is further strengthened, as we contribute to the growth and development of agriculture, ensuring food security and economic prosperity in the region. Our strategic investment in the Indian agro sector underscores our dedication to fostering innovation and sustainable practices that will drive the future of agriculture globally and benefit farming communities across the nation.' }]
-const servicesMain = [{ id: 1, title: 'Our Services', paragraph: 'PSPL is Your Trusted Partner for All Fertilizer Needs and Services' }];
+const servicesMain = [{ id: 1, title: 'Our Services', paragraph: 'PLPL is Your Trusted Partner for All Fertilizer Needs and Services' }];
 const serviceBox = [
     { id: 1, image: '/images/fertilizer_prod_logo.png', title: 'Fertilizer Production', paragraph: 'We offer a wide range of fertilizers, including nitrogen, phosphorus, and potassium-based to meet your agricultural needs.' },
     { id: 2, image: '/images/fertilizer_pd_logo.png', title: 'Product Development', paragraph: 'We invest in research and development to create new and improved fertilizer products that enhance crop yield.' },
     { id: 3, image: '/images/fertilizer_quality_logo.png', title: 'Quality', paragraph: 'We maintain rigorous quality control and testing processes to meet all regulatory standards' },
-    { id: 4, image: '/images/fertilizer_es_Logo.png', title: 'Environmental Stewardship', paragraph: 'At PSPL, we are dedicated to promote sustainable and eco-friendly fertilizer usage through our services.' }
+    { id: 4, image: '/images/fertilizer_es_Logo.png', title: 'Environmental Stewardship', paragraph: 'At PLPL, we are dedicated to promote sustainable and eco-friendly fertilizer usage through our services.' }
 ]
 
 const whyChooseUs = [{ id: 1, title: 'WHY CHOOSE US', paragraph: 'We prioritize sustainable practices, contributing to a greener future for agriculture, making us the eco-friendly choice for your fertilizer needs.' }];

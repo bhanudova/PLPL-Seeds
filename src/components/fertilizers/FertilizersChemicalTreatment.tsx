@@ -11,10 +11,10 @@ export default function FertilizersChemicalTreatment() {
                 <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-center text-white">
                     <div className="w-[24rem] md:w-[50rem] lg:w-[60rem]">
                         <h3 className="text-2xl md:text-5xl lg:text-6xl font-bold">
-                            Chemical Treatment at Prasad Seeds
+                            Chemical Treatment at PLPL Seeds
                         </h3>
                         <p className="text-sm md:text-xl lg:text-2xl mx-2 md:mx-0 font-medium mt-4">
-                            Explore the art of precision in our fertilizer mixing process at Prasad Seeds. We carefully blend
+                            Explore the art of precision in our fertilizer mixing process at PLPL Seeds. We carefully blend
                             premium raw materials to provide your crops with the exact nutrients essential for their optimal
                             growth and vitality.
                         </p>
@@ -27,7 +27,7 @@ export default function FertilizersChemicalTreatment() {
                 <div>
                     <div className="text-center">
                         <h2 className="mx-0 md:mx-[10rem] lg:mx-[24rem] text-2xl md:text-4xl font-bold">
-                            Advanced Chemical Treatment at Prasad Seeds
+                            Advanced Chemical Treatment at PLPL Seeds
                         </h2>
                         <p className="mx-0 md:mx-[4rem] lg:mx-[16rem] mt-2 text-sm">
                             Explore our cutting-edge chemical treatment methods designed to elevate your crop yields and ensure agricultural success.
@@ -37,22 +37,22 @@ export default function FertilizersChemicalTreatment() {
                         <div className="grid grid-cols-1 lg:grid-cols-2 gap-2 w-full lg:w-[50rem]">
                             <div className="bg-[#F2F2F2] p-10 font-semibold">
                                 <p>
-                                    Our chemical treatment process at Prasad Seeds is founded on precision and expertise. We carefully select and blend premium raw materials to provide your crops with the exact nutrients essential for optimal growth and vitality.
+                                    Our chemical treatment process at PLPL Seeds is founded on precision and expertise. We carefully select and blend premium raw materials to provide your crops with the exact nutrients essential for optimal growth and vitality.
                                 </p>
                             </div>
                             <div className="p-10 font-semibold">
                                 <p>
-                                    Prasad Seeds is committed to the art of precision in agriculture. Our fertilizer mixing process ensures that your crops receive the nutrients they need for robust growth and vitality, leading to a bountiful harvest.
+                                    PLPL Seeds is committed to the art of precision in agriculture. Our fertilizer mixing process ensures that your crops receive the nutrients they need for robust growth and vitality, leading to a bountiful harvest.
                                 </p>
                             </div>
                             <div className="p-10 font-semibold">
                                 <p>
-                                    Experience the difference with Prasad Seeds&#39; chemical treatment. We bring together the latest advancements in agricultural science to deliver results that go beyond expectations. Your crops deserve the best, and we&#39;re here to provide it.
+                                    Experience the difference with PLPL Seeds&#39; chemical treatment. We bring together the latest advancements in agricultural science to deliver results that go beyond expectations. Your crops deserve the best, and we&#39;re here to provide it.
                                 </p>
                             </div>
                             <div className="bg-[#F2F2F2] p-10 font-semibold">
                                 <p>
-                                    Elevate your farming practices with Prasad Seeds. Our chemical treatment solutions are designed to address the unique needs of your crops, ensuring they receive the right nutrients at the right time for optimal health and productivity.
+                                    Elevate your farming practices with PLPL Seeds. Our chemical treatment solutions are designed to address the unique needs of your crops, ensuring they receive the right nutrients at the right time for optimal health and productivity.
                                 </p>
                             </div>
                         </div>
@@ -62,7 +62,7 @@ export default function FertilizersChemicalTreatment() {
 
             <div className="bg-purple-800 p-10 text-white">
                 <div className="text-center">
-                    <h2 className="text-2xl md:text-4xl text-stone-50 font-bold">Innovative Agriculture Solutions by Prasad Seeds</h2>
+                    <h2 className="text-2xl md:text-4xl text-stone-50 font-bold">Innovative Agriculture Solutions by PLPL Seeds</h2>
                     <p className="text-base my-2 font-semibold">Explore These Essential Aspects of Agricultural Excellence</p>
                 </div>
                 <div className="flex justify-center items-center">
@@ -72,7 +72,7 @@ export default function FertilizersChemicalTreatment() {
                             <div>
                                 <h3 className="font-semibold text-xl md:text-2xl text-green-300">Precision Farming</h3>
                                 <p className="font-medium">
-                                    Master the art of precision farming with Prasad Seeds. Understand how to carefully manage resources, employ cutting-edge technology, and implement precise farming practices for optimal crop health, increased yield, and sustainable agricultural success.
+                                    Master the art of precision farming with PLPL Seeds. Understand how to carefully manage resources, employ cutting-edge technology, and implement precise farming practices for optimal crop health, increased yield, and sustainable agricultural success.
                                 </p>
                             </div>
                         </div>
@@ -81,7 +81,7 @@ export default function FertilizersChemicalTreatment() {
                             <div>
                                 <h3 className="font-semibold text-xl md:text-2xl text-green-300">Innovative Chemical Treatments</h3>
                                 <p className="font-medium">
-                                    Dive into the world of innovative chemical treatments with Prasad Seeds. Explore advanced methods and technologies that elevate the effectiveness of fertilizers and enhance crop productivity.
+                                    Dive into the world of innovative chemical treatments with PLPL Seeds. Explore advanced methods and technologies that elevate the effectiveness of fertilizers and enhance crop productivity.
                                 </p>
                             </div>
                         </div>
@@ -90,7 +90,7 @@ export default function FertilizersChemicalTreatment() {
                             <div>
                                 <h3 className="font-semibold text-xl md:text-2xl text-green-300">Sustainable Agriculture Practices</h3>
                                 <p className="font-medium">
-                                    Practice sustainable agriculture with Prasad Seeds. Discover methods that not only benefit your crops but also contribute to the long-term health of the environment and surrounding ecosystems.
+                                    Practice sustainable agriculture with PLPL Seeds. Discover methods that not only benefit your crops but also contribute to the long-term health of the environment and surrounding ecosystems.
                                 </p>
                             </div>
                         </div>
@@ -104,9 +104,9 @@ export default function FertilizersChemicalTreatment() {
                     <div className="w-full ">
                         <div className="flex justify-center items-center">
                             <div>
-                                <h2 className="text-2xl md:text-4xl lg:text-6xl font-bold w-full md:w-[40rem]">Unlock Agricultural Excellence with Prasad Seeds</h2>
+                                <h2 className="text-2xl md:text-4xl lg:text-6xl font-bold w-full md:w-[40rem]">Unlock Agricultural Excellence with PLPL Seeds</h2>
                                 <p className="text-lg font-medium mt-3">
-                                    Explore the innovative world of chemical treatment and fertilizers with Prasad Seeds.  Our commitment to excellence ensures your crops receive the precise nutrients they need for optimal growth and vitality. Through dedication to innovation, we craft treatments revolutionizing crop cultivation, infusing seeds with essential elements for unparalleled success.. Elevate your crop productivity and quality with Prasad Seeds&#39; avant-garde chemical treatments and fertilizers. Experience the transformative power of our innovations as we pave the way for a bountiful and sustainable agricultural future.
+                                    Explore the innovative world of chemical treatment and fertilizers with PLPL Seeds.  Our commitment to excellence ensures your crops receive the precise nutrients they need for optimal growth and vitality. Through dedication to innovation, we craft treatments revolutionizing crop cultivation, infusing seeds with essential elements for unparalleled success.. Elevate your crop productivity and quality with PLPL Seeds&#39; avant-garde chemical treatments and fertilizers. Experience the transformative power of our innovations as we pave the way for a bountiful and sustainable agricultural future.
                                 </p>
                                 <p className="text-lg font-medium mt-4 mb-6">
                                     Discover the art of precision in our fertilizer mixing process, tailored to provide your crops with the exact nutrients essential for their optimal health and productivity. Our meticulously designed processes collectively form the backbone of chemical fertilizer production, providing the vital components necessary for both robust plant growth and the enrichment of soil.

@@ -35,7 +35,7 @@ export default function TissueCultureCell_Types() {
                         <div>
                             <h2 className="text-2xl font-bold">Pioneering Plant Tissue Culture Solutions</h2>
                             <p>
-                                At Prasad Seeds, we believe that plant cell types hold the key to a sustainable and prosperous future. Through our dedicated research and innovation, we are committed to unlocking their potential to transform agriculture, conserve our planet&#39;s biodiversity, and ensure food security for all.
+                                At PLPL Seeds, we believe that plant cell types hold the key to a sustainable and prosperous future. Through our dedicated research and innovation, we are committed to unlocking their potential to transform agriculture, conserve our planet&#39;s biodiversity, and ensure food security for all.
                             </p>
                         </div>
                     </div>

@@ -12,7 +12,7 @@ export default function FoodDistribution() {
                             Food Distribution
                         </h3>
                         <p className="text-sm md:text-lg lg:text-xl font-bold mt-4">
-                            Prasad Seeds is dedicated to transforming agriculture by providing top-quality seeds and embracing sustainable practices in food distribution. Join us in our commitment to build a greener and more sustainable future.
+                            PLPL Seeds is dedicated to transforming agriculture by providing top-quality seeds and embracing sustainable practices in food distribution. Join us in our commitment to build a greener and more sustainable future.
                         </p>
                     </div>
                 </div>
@@ -29,7 +29,7 @@ export default function FoodDistribution() {
                                 <div className="mt-2">
                                     <h2 className="text-3xl font-bold">Our Dedicated Team</h2>
                                     <p>
-                                        At Prasad Seeds, we take pride in our dedicated team of agricultural experts and professionals. Together, we are committed to advancing the field of agriculture and ensuring a sustainable future.
+                                        At PLPL Seeds, we take pride in our dedicated team of agricultural experts and professionals. Together, we are committed to advancing the field of agriculture and ensuring a sustainable future.
                                     </p>
                                     <p className="mt-4">
                                         Our team believes in the importance of quality seeds and innovative farming practices to contribute to the well-being of farmers and the environment.
@@ -46,7 +46,7 @@ export default function FoodDistribution() {
                                             Quality Seeds for Sustainable Agriculture
                                         </p>
                                         <p>
-                                            Prasad Seeds is dedicated to providing farmers with top-quality seeds, ensuring bountiful harvests and sustainable agriculture practices. Our commitment to quality is unwavering.
+                                            PLPL Seeds is dedicated to providing farmers with top-quality seeds, ensuring bountiful harvests and sustainable agriculture practices. Our commitment to quality is unwavering.
                                         </p>
                                     </div>
                                 </div>
@@ -57,7 +57,7 @@ export default function FoodDistribution() {
                                             Sustainable Farming for a Greener Tomorrow
                                         </p>
                                         <p>
-                                            We actively promote and implement sustainable farming practices that contribute to a greener and healthier environment. Prasad Seeds believes in responsible agriculture for a better tomorrow.
+                                            We actively promote and implement sustainable farming practices that contribute to a greener and healthier environment. PLPL Seeds believes in responsible agriculture for a better tomorrow.
                                         </p>
                                     </div>
                                 </div>
@@ -68,7 +68,7 @@ export default function FoodDistribution() {
                                             Innovation Driving Agricultural Excellence
                                         </p>
                                         <p>
-                                            Innovation is at the heart of Prasad Seeds. We continuously explore new ways to enhance agricultural practices, driving excellence in the field and contributing to the prosperity of farmers.
+                                            Innovation is at the heart of PLPL Seeds. We continuously explore new ways to enhance agricultural practices, driving excellence in the field and contributing to the prosperity of farmers.
                                         </p>
                                     </div>
                                 </div>
@@ -85,7 +85,7 @@ export default function FoodDistribution() {
                         <div>
                             <h2 className="text-2xl py-2 font-bold">Quality Seed Varieties</h2>
                             <p className="font-semibold text-sm">
-                                Prasad Seeds offers a diverse range of high-quality seed varieties meticulously curated to meet the unique needs of farmers. Our commitment to excellence ensures a reliable source for superior seeds.
+                                PLPL Seeds offers a diverse range of high-quality seed varieties meticulously curated to meet the unique needs of farmers. Our commitment to excellence ensures a reliable source for superior seeds.
                             </p>
                             <div>
                                 <MdOutlineArrowRightAlt className="text-8xl font-light" />
@@ -96,7 +96,7 @@ export default function FoodDistribution() {
                         <div>
                             <h2 className="text-2xl py-2 font-bold">Sustainable Agriculture Solutions</h2>
                             <p className="font-semibold text-sm">
-                                Explore sustainable agriculture solutions with Prasad Seeds. Our practices prioritize environmental health, promoting soil fertility, water conservation, and biodiversity for a sustainable farming ecosystem.
+                                Explore sustainable agriculture solutions with PLPL Seeds. Our practices prioritize environmental health, promoting soil fertility, water conservation, and biodiversity for a sustainable farming ecosystem.
                             </p>
                             <div>
                                 <MdOutlineArrowRightAlt className="text-8xl font-light" />
@@ -107,7 +107,7 @@ export default function FoodDistribution() {
                         <div>
                             <h2 className="text-2xl py-2 font-bold">Innovative Farming Techniques</h2>
                             <p className="font-semibold text-sm">
-                                Prasad Seeds leads the way in adopting innovative farming techniques. From precision agriculture to smart farming technologies, we empower farmers with the tools to enhance productivity and efficiency.
+                                PLPL Seeds leads the way in adopting innovative farming techniques. From precision agriculture to smart farming technologies, we empower farmers with the tools to enhance productivity and efficiency.
                             </p>
                             <div>
                                 <MdOutlineArrowRightAlt className="text-8xl font-light" />
@@ -118,7 +118,7 @@ export default function FoodDistribution() {
                         <div>
                             <h2 className="text-2xl py-2 font-bold">Community and Environmental Impact</h2>
                             <p className="font-semibold text-sm">
-                                Join Prasad Seeds in making a positive impact on communities and the environment. Our initiatives focus on community welfare, sustainable farming, and environmental conservation for a better tomorrow.
+                                Join PLPL Seeds in making a positive impact on communities and the environment. Our initiatives focus on community welfare, sustainable farming, and environmental conservation for a better tomorrow.
                             </p>
                             <div>
                                 <MdOutlineArrowRightAlt className="text-8xl font-light" />
