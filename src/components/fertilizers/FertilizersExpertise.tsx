@@ -14,8 +14,8 @@ export default function FertilizersExpertise({ expertiseTitle, expertiseBox }: a
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-10">
                     {
                         expertiseBox && expertiseBox.map(({ id, image, title, paragraph }: any) => (
-                            <div>
-                                <div key={id} className="f-card hover:cursor-pointer w-[320px] h-[250px] md:w-[350px] md:h-[330px] lg:w-[500px]">
+                            <div key={id}>
+                                <div  className="f-card hover:cursor-pointer w-[320px] h-[250px] md:w-[350px] md:h-[330px] lg:w-[500px]">
                                     <Image src={image} width={1000} height={1000} alt="Card" className="card-Image" />
                                     <div className="card-body flex justify-center items-center">
                                         <div>
