@@ -22,7 +22,7 @@ export default function FertilizersCarousel({bannerImages}:any) {
 
   return (<>
     <div>
-      <div className="carousel w-full h-[210px] md:w-full md:h-[450px] lg:w-full lg:h-[550px] ">
+      <div className="carousel w-full h-[300px] md:w-full md:h-[450px] lg:w-full lg:h-[550px] ">
         {bannerImages && bannerImages.map((img: string, i: number) => (
           <div key={i} id={`slide${i}`} className={`carousel-item relative w-full`}>
             <Image width={1000} height={1000} alt="Banner" src={img} className="w-full" />
