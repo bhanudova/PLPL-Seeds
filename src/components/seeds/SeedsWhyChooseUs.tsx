@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function SeedsWhyChooseUs() {
     return (<>
-        <div className="bg-accent text-primary-content py-12">
+        <div className="bg-accent text-primary-content py-12 mt-[-1rem] ">
             <div className=" max-w-[90%] md:max-w-3xl lg:max-w-[74rem] mx-auto">
                 <div>
                     <h2 className="text-xl md:text-2xl lg:text-3xl font-bold uppercase text-center">Why Choose Us?</h2>

@@ -8,8 +8,8 @@ import TissueCultureWhyChooseUs from "./TissueCultureWhyChooseUs";
 export default function TissueCultureContent() {
     return (<>
         <TissueCultureCarousel />
-        <TissueCultureWhoWeAre />
         <TissueCultureWhyChooseUs />
+        <TissueCultureWhoWeAre />
         <TissueCultureService />
     </>)
 }

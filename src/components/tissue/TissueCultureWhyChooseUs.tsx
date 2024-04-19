@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function TissueCultureWhyChooseUs() {
     return (<>
-        <div className="bg-accent text-primary-content py-12">
+        <div className="bg-accent text-primary-content py-12 mt-[-1rem] ">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 max-w-[90%] md:max-w-3xl lg:max-w-6xl mx-auto">
                 <div>
                     <div>

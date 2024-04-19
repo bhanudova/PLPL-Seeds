@@ -2,7 +2,7 @@ import Image from "next/image"
 
 export default function FoodWhoWeAre() {
     return (<>
-        <div className="text-primary-content bg-secondary py-12">
+        <div className="text-primary-content bg-secondary py-12 mt-[-1rem] ">
             <div className="max-w-[90%] md:max-w-3xl lg:max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-4">
                 <div>
                     <Image src="/images/food_whoweare.jpg" width={600} height={600} alt="food_whoweare" className="w-full h-full object-cover" />

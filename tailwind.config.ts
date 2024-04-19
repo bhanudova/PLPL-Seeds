@@ -168,7 +168,7 @@ const config: Config = {
           "accent-content": "#324422",
           "neutral": "#151f14",
           "neutral-content": "#847b15",
-          "base-100": "#59520d",
+          "base-100": "#2d2906",
           "base-200": "#141f1f",
           "base-300": "#262626",
           "base-content": "#142013",

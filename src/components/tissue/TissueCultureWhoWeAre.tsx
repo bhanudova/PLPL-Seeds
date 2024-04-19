@@ -2,7 +2,7 @@ import Image from "next/image"
 
 export default function TissueCultureWhoWeAre() {
     return (<>
-        <div className="bg-secondary py-12 mt-[-1rem] text-primary-content">
+        <div className="bg-secondary py-12 text-primary-content">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-[90%] md:max-w-3xl lg:max-w-6xl mx-auto">
                 <div>
                     <div>

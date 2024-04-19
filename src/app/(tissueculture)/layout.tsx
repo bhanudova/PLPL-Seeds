@@ -9,7 +9,7 @@ import { headerInfo } from '@/constraints/global';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'PLPL Seeds',
+  title: 'Prasad Seeds',
   description: 'By TSSS Infotech',
 }
 
