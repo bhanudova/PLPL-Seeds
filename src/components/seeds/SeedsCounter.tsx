@@ -4,7 +4,7 @@ export default function SeedsCounter() {
     return (<>
         <div className=" bg-secondary-content">
             <div className="w-full">
-                <div className="grid grid-cols-1 md:grid-cols-2  lg:grid-cols-2 gap-5 md:gap-5 lg:gap-0 p-3 md:p-11 ">
+                <div className="grid grid-cols-1 md:grid-cols-2  lg:grid-cols-2 gap-5 md:gap-5 lg:gap-0 p-3 md:p-11 max-w-[90%] md:max-w-3xl lg:max-w-7xl m-auto ">
                     <div className="flex justify-center">
                         <div>
                             <div className="flex gap-3 md:gap-0">
