@@ -43,7 +43,7 @@ export default function Header({ headerList, headerLogo, mode }: any) {
           <ul className="menu menu-horizontal px-1">
             {
               headerList.map((data: any, i: number) => (
-                <li key={i} className={`${pathname === data.urlLink ? 'text-green-700 underline text-base md:text-lg lg:text-xl font-bold' : 'text-grey-50 text-base md:text-lg lg:text-xl font-semibold'}`}><a href={data.urlLink}>{data.name}</a></li>
+                <li key={i} className={`${pathname === data.urlLink ? 'text-green-700 underline text-base md:text-lg lg:text-xl font-extrabold' : 'text-grey-50 text-base md:text-lg lg:text-xl font-bold'}`}><a href={data.urlLink}>{data.name}</a></li>
               ))
             }
           </ul>
