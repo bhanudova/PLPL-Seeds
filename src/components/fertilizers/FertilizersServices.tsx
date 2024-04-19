@@ -3,12 +3,14 @@ import Image from "next/image"
 export default function FertilizersServices({ servicesMain, serviceBox }: any) {
     return (<>
         <div className="flex justify-center py-20 mt-[-5px] bg-secondary-content text-primary-content">
-            <div className="text-center ">
+            <div className="text-center max-w-[90%] md:max-w-3xl lg:max-w-6xl ">
                 {
                     servicesMain && servicesMain.map(({ id, title, paragraph }: any) => (
                         <div key={id}>
-                            <h2 className="text-2xl md:text-3xl lg: font-bold ">{title}</h2>
-                            <p className="text-base md:text-lg lg:text-lg font-semibold ">{paragraph}</p>
+                            <h2 className="text-xl md:text-2xl lg:text-3xl font-bold uppercase">{title}</h2>
+                            <p className="text-xs md:text-sm lg:text-base font-semibold ">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, nihil!
+                            </p>
                         </div>
                     ))
                 }
@@ -22,8 +24,8 @@ export default function FertilizersServices({ servicesMain, serviceBox }: any) {
                                             <Image src={image} width={1000} height={1000} alt={image} className="w-14 h-14" />
                                         </div>
                                         <div>
-                                            <h2 className="text-lg font-bold pb-1 ">{title}</h2>
-                                            <p className="font-semibold text-sm">{paragraph}</p>
+                                            <h2 className="text-base md:text-lg lg:text-xl font-semibold pb-1 h-[60px]">{title}</h2>
+                                            <p className="text-xs md:text-sm lg:text-sm font-medium">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nisi?</p>
                                         </div>
                                     </div>
                                 </div>

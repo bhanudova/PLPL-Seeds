@@ -10,7 +10,7 @@ const servicesMain = [{ id: 1, title: 'Our Services', paragraph: 'PLPL is Your T
 const serviceBox = [
     { id: 1, image: '/images/fertilizer_prod_logo.png', title: 'Fertilizer Production', paragraph: 'We offer a wide range of fertilizers, including nitrogen, phosphorus, and potassium-based to meet your agricultural needs.' },
     { id: 2, image: '/images/fertilizer_pd_logo.png', title: 'Product Development', paragraph: 'We invest in research and development to create new and improved fertilizer products that enhance crop yield.' },
-    { id: 3, image: '/images/fertilizer_quality_logo.png', title: 'Quality', paragraph: 'We maintain rigorous quality control and testing processes to meet all regulatory standards' },
+    { id: 3, image: '/images/fertilizer_quality_logo.png', title: 'Quality Products PLPL    ', paragraph: 'We maintain rigorous quality control and testing processes to meet all regulatory standards' },
     { id: 4, image: '/images/fertilizer_es_Logo.png', title: 'Environmental Stewardship', paragraph: 'At PLPL, we are dedicated to promote sustainable and eco-friendly fertilizer usage through our services.' }
 ]
 

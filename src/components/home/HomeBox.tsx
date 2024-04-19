@@ -21,8 +21,6 @@ export default function HomeBox({ HomeBoxData }: any) {
                                 </div>
                             </div>
                         </div>
-
-
                     </div>
                 ))
             }
