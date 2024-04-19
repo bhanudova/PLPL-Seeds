@@ -16,9 +16,9 @@ export default function SeedsContent() {
 
   return (<>
     <SeedsCarousel bannerImages={bannerImages}/>
-    <SeedsWhoWeAre whoWeAre={whoWeAre} whoWeAreImg={whoWeAreImg}/>
-    <SeedsCounter />
     <SeedsWhyChooseUs />
+    <SeedsCounter />
+    <SeedsWhoWeAre whoWeAre={whoWeAre} whoWeAreImg={whoWeAreImg}/>
     <SeedsServices />
     <OurClients />
     <SeedsExpertise />
