@@ -14,6 +14,8 @@ export default function Header({ headerList, headerLogo, mode }: any) {
   }
   const pathname = usePathname();
 
+  const logoUrl = mode === 'dark' ? '/images/PLPL_DarkLogo.png' : '/images/PLPL_logo.png';
+
 
   return (
     <div className="fixed left-0 top-0 w-full z-10 bg-primary text-primary-content">
@@ -34,7 +36,7 @@ export default function Header({ headerList, headerLogo, mode }: any) {
           <a href="/">
             {
               headerLogo && headerLogo.map(({ id, logo }: any) => (
-                <Image key={id} src={logo} width={1000} height={1000} className="w-32 lg:w-36  " alt="Logo" />
+                <Image key={id} src={logoUrl} width={1000} height={1000} className="w-32 lg:w-36  " alt="Logo" />
               ))
             }
           </a>
