@@ -26,7 +26,7 @@ export default function Header({ headerList, headerLogo, mode }: any) {
             <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
               {
                 headerList.map((data: any, i: number) => (
-                  <li key={i} className={`${pathname === data.urlLink ? 'text-green-700 underline text-base md:text-lg lg:text-xl font-' : 'text-grey-50 text-base md:text-lg lg:text-xl font-semibold'}`}><a href={data.urlLink}>{data.name}</a></li>
+                  <li key={i} className={`${pathname === data.urlLink ? 'text-green-700 underline text-base md:text-lg lg:text-xl font-bold' : 'text-grey-50 text-base md:text-lg lg:text-xl font-semibold'}`}><a href={data.urlLink}>{data.name}</a></li>
                 ))
               }
             </ul>
