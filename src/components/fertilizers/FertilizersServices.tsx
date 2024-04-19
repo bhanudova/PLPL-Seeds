@@ -18,13 +18,13 @@ export default function FertilizersServices({ servicesMain, serviceBox }: any) {
                     {
                         serviceBox && serviceBox.map(({ id, image, title, paragraph }: any) => (
                             <div key={id} className="flex justify-center items-center">
-                                <div className="p-3 shadow-lg rounded-md w-[250px] h-[230px] md:w-[250px] md:h-[230px] lg:w-[220px] lg:h-[230px] cardF bg-accent">
+                                <div className="p-3 shadow-lg rounded-md w-[70%] md:w-[90%] cardF bg-accent">
                                     <div>
                                         <div className="flex justify-center pb-3">
                                             <Image src={image} width={1000} height={1000} alt={image} className="w-14 h-14" />
                                         </div>
                                         <div>
-                                            <h2 className="text-base md:text-lg lg:text-xl font-semibold pb-1 h-[60px]">{title}</h2>
+                                            <h2 className="text-base md:text-lg lg:text-xl font-semibold pb-1 h-full lg:h-[60px]">{title}</h2>
                                             <p className="text-xs md:text-sm lg:text-sm font-medium">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nisi?</p>
                                         </div>
                                     </div>
