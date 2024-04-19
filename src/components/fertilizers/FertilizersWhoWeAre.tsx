@@ -5,7 +5,7 @@ export default function FertilizersWhoWeAre({ whoWeAre }: any) {
         <div className="bg-secondary flex justify-center items-center text-primary-content mt-[-8px]">
             {
                 whoWeAre && whoWeAre.map(({ id, image, titleOne, titleTwo, paragraph }: any) => (
-                    <div key={id} className="p-0 md:p-6 lg:py-10 max-w-[90%] md:max-w-3xl lg:max-w-6xl">
+                    <div key={id} className="py-6 lg:py-10 max-w-[90%] md:max-w-3xl lg:max-w-6xl">
                         <div className="grid grid-cols-1 lg:grid-cols-2 gap-2 lg:gap-10">
                             <div className="border-2 ">
                                 <Image src={image} width={1000} height={1000} alt={image} className="w-full h-full object-cover" />
