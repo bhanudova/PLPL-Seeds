@@ -4,20 +4,25 @@ export default function HomeBox({ HomeBoxData }: any) {
         <div className="bg-primary text-primary-content">
             {
                 HomeBoxData && HomeBoxData.map(({ id, image, position, content, title, description }: any) => (
-                    <div key={id} className="flex justify-center pt-10 md:pt-16 lg:pt-5">
-                        <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 py-3 md:py-3 lg:py-10">
-                            <div className={`flex justify-center ${position}`}>
-                                <Image width={1000} height={1000} alt={image} src={image} className="max-w-xs md:max-w-xl lg:max-w-xl rounded-lg shadow-2xl" />
-                            </div>
-                            <div className={`flex justify-center items-center ${content}`}>
-                                <div className="w-[310px] md:w-[580px] lg:w-[610px]">
-                                    <h1 className="text-xl md:text-2xl lg:text-2xl font-bold text-center">{title}</h1>
-                                    <p className=" text-center  text-xs md:text-base lg:text-base font-semibold whitespace-normal">
-                                        {description}
-                                    </p>
+                    <div>
+                        <div className="grid grid-cols-1 w-[90%] md:max-w-3xl lg:max-w-6xl mx-auto pt-12 pb-4">
+                            <div className="flex flex-col lg:flex-row gap-8 mb-8 bg-secondary p-2 md:p-4 lg:bg-primary lg:p-0">
+                                <div className={`w-full lg:w-[40%] ${position}`}>
+                                    <Image width={600} height={600} alt={image} src={image} className="w-full h-full rounded-lg shadow-2xl" />
+                                </div>
+                                <div className="w-full lg:w-[60%] flex justify-center items-center">
+                                    <div>
+                                        <h1 className="text-base md:text-lg lg:text-xl font-bold text-center uppercase">{title}</h1>
+                                        <p className=" text-center  text-xs md:text-sm lg:text-base font-medium">
+                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore dolorem quas provident, et quam repudiandae consequuntur, culpa aspernatur possimus nulla ab? Cum cupiditate voluptas vel natus rem temporibus adipisci? Quo, ab quisquam quibusdam quasi et voluptas inventore eaque voluptatem repudiandae.
+                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore dolorem quas provident, et quam repudiandae consequuntur, culpa aspernatur possimus nulla ab? Cum cupiditate voluptas vel natus rem temporibus adipisci? Quo, ab quisquam quibusdam quasi et voluptas inventore eaque voluptatem repudiandae.
+                                        </p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
+
+
                     </div>
                 ))
             }

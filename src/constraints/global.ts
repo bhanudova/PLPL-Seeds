@@ -12,6 +12,31 @@ export const themes: any = {
   "dark_/tissueculture": "synthwave",
 }
 
+
+export const headerInfo = [
+  {
+    name:"Home",
+    urlLink:"/"
+  },
+  {
+    name:"Fertilizers",
+    urlLink:"/fertilizers"
+  },
+  {
+    name:"Seeds Process",
+    urlLink:"/seeds"
+  },
+  {
+    name:"Food Process",
+    urlLink:"/food"
+  },
+  {
+    name:"Tissue Culture",
+    urlLink:"/tissueculture"
+  },
+]
+
+
 export const footerLinks = [
   {
     "name": "Home",

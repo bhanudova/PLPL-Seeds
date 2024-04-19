@@ -31,7 +31,7 @@ const config: Config = {
           "base-100": "#F2F2F2",
           "base-200": "#e0ebeb",
           "base-300": "#e6e6e6",
-          "base-content": "#2B3440",
+          "base-content": "#e0e5eb",
         },
         dark: {
           ...require("daisyui/src/theming/themes")["dark"],

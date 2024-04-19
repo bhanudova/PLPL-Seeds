@@ -10,15 +10,14 @@ export default function Footer() {
             <div className="flex justify-center items-center w-full lg:w-[34%]  mobile-border md-border lg-border">
               <div>
                 <div className="flex justify-center md:justify-center lg:justify-normal">
-                  <div className="flex p-1 gap-0 px-2 shadow-2xl rounded-lg ">
+                  <div className="shadow-2xl rounded-lg ">
                     <a href="/" className="flex items-center">
-                      <Image src="/images/prasad_logo.png" width={1000} height={1000} className="w-6 md:w-10 rounded-md " alt="Logo" />
+                      <Image src="/images/PLPL_logo.png" width={1000} height={1000} className="w-40 rounded-md " alt="Logo" />
                     </a>
-                    <h2 className="font-bold  text-base md:text-base lg:text-lg mt-[2px] md:mt-[10px]">PLPL Seeds</h2>
                   </div>
                 </div>
-                <p className="font-semibold w-80 md:w-96 lg:w-96 mt-0 md:mt-3 lg:mt-3 p-2 md:p-0 lg:p-0 text-center md:text-center lg:text-start text-xs md:text-base lg:text-sm">
-                  Prasad Groups: We specialize in the art of conveying happiness. Our mission is to seamlessly transport joy, prosperity, and success to our clients, making every journey a delightful one
+                <p className="font-semibold w-80 md:w-96 lg:w-96 mt-0 md:mt-3 lg:mt-3 p-2 md:p-0 lg:p-0 text-center md:text-center lg:text-start text-xs md:text-sm lg:text-sm">
+                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente eum suscipit nam illo, iste quo autem, ullam ducimus nulla explicabo facere esse, aliquam reprehenderit vitae sit delectus laudantium aut. Unde!
                 </p>
                 <div className="flex justify-center md:justify-center lg:justify-normal mt-2 md:mt-0">
                   <div className="flex mt-0 md:mt-3 lg:mt-3">
