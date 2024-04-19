@@ -4,7 +4,7 @@ export default function HomeBox({ HomeBoxData }: any) {
         <div className="bg-primary text-primary-content">
             {
                 HomeBoxData && HomeBoxData.map(({ id, image, position, content, title, description }: any) => (
-                    <div>
+                    <div key={id}>
                         <div className="grid grid-cols-1 w-[90%] md:max-w-3xl lg:max-w-6xl mx-auto pt-12 pb-4">
                             <div className="flex flex-col lg:flex-row gap-8 mb-8 bg-secondary p-2 md:p-4 lg:bg-primary lg:p-0">
                                 <div className={`w-full lg:w-[40%] ${position}`}>
