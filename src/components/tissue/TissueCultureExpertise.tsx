@@ -2,10 +2,10 @@ import Image from "next/image"
 
 export default function TissueCultureExpertise() {
     return (<>
-        <div className="bg-secondary flex justify-center items-center text-primary-content">
-            <div>
-                <h2 className="text-center font-bold text-xl md:text-3xl lg:text-3xl  mt-10">We have expertise in these areas</h2>
-                <div className="grid grid-cols-1">
+        <div className="bg-secondary text-primary-content">
+          
+
+            {/* <div className="grid grid-cols-1">
                     <div className="flex flex-col md:flex-row p-6 md:p-10 lg:p-10 border m-4 md:m-10 lg:m-10 bg-accent-content rounded-2xl">
                         <div className="w-full md:w-[25%]">
                             <Image src="/images/tissue_culture_box1.jpg" width={1000} height={1000} alt="terrific_plants" className="h-[12rem] md:h-[10rem] lg:h-[15rem] rounded-2xl" />
@@ -116,8 +116,8 @@ export default function TissueCultureExpertise() {
                             <Image src="/images/tissue_culture_box10.jpg" width={1000} height={1000} alt="tissue_culture_box10" className="h-[12rem] md:h-[10rem] lg:h-[15rem] rounded-2xl" />
                         </div>
                     </div>
-                </div>
-            </div>
+                </div> */}
+
         </div>
     </>)
 }

@@ -9,8 +9,7 @@ export default function TissueCultureContent() {
     return (<>
         <TissueCultureCarousel />
         <TissueCultureWhoWeAre />
-        <TissueCultureService />
         <TissueCultureWhyChooseUs />
-        <TissueCultureExpertise />
+        <TissueCultureService />
     </>)
 }
